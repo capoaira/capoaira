@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![capoaira States](https://github-readme-stats.vercel.app/api?username=capoaira&show_icons=true&include_all_commits=true&hide=stars&title_color=f80&text_color=f80&icon_color=f80&bg_color=000&card_width=445)](https://github.com/capoaira)
+
+[![capoaira User States](https://github-readme-stats.vercel.app/api/top-langs/?username=capoaira&layout=compact&card_width=445&title_color=f80&text_color=f80&icon_color=f80&bg_color=000)](https://github.com/capoaira)
+
+I am a German hobby programmer. Most of the projects I work on are for geocaching - my 2nd hobby. Sometimes I also program something, just to learn something new and sometimes I have to program something for school.
+
 <!--
 **capoaira/capoaira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
